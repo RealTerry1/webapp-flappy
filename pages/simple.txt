@@ -1,0 +1,10 @@
+Flappy Bird
+
+Welcome to Flappy Bird.
+
+Here will be the game
+
+How to play:
+- Press SPACE to flap your wings.
+- Avoid the pipes.
+- If you crash, just try again!
